@@ -1,0 +1,2 @@
+kr/co/dhkim/layoutscompose/BuildConfig.java
+ kr.co.dhkim.layoutscompose.BuildConfig
